@@ -1,0 +1,29 @@
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha(){
+
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function mostra(frase){
+
+        document.write(frase);
+        pulaLinha();
+
+    }
+
+    var conta = 20;
+    var vezes = 0;
+    while(conta >=0 ){
+        mostra(conta);
+        conta-=1;
+        vezes+=1;
+        }
+
+        
+    mostra("Número de iterações " + vezes);
+
+</script>

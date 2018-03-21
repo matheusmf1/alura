@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tota",
+				"totalP"
+			],
+			[
+				"im",
+				"imcUser"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"altu",
+				"alturaUser"
+			],
+			[
+				"imc",
+				"imcy"
+			],
+			[
+				"altura",
+				"alturay"
+			],
+			[
+				"peso",
+				"pesoy"
+			],
+			[
+				"alt",
+				"alturaMat"
+			],
+			[
+				"ma",
+				"maiorAC"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"n",
+				"n2"
+			],
+			[
+				"v",
+				"v2"
+			],
+			[
+				"va",
+				"valor_maior"
+			],
+			[
+				"val",
+				"valor_maior"
+			],
+			[
+				"valor",
+				"valor2"
+			],
+			[
+				"valo",
+				"valor2"
+			],
+			[
+				"s",
+				"switch"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"N",
+				"N"
+			],
+			[
+				"entra",
+				"entrada"
+			],
+			[
+				"e",
+				"expoente"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<meta charset=\"UTF-8\">\n\n<script>\n\n    function pulaLinha(){\n\n        document.write(\"<br>\");\n        document.write(\"<br>\");\n    }\n\n    function mostra(frase){\n\n        document.write(frase);\n        pulaLinha();\n\n    }\n\n    var totalP = parseInt(prompt(\"Quantas pessoas na sua familía?\"));\n    var i = 1;\n    var totalI = 0;\n\n    while(i <= totalP){\n      var idade = parseInt(prompt(\"Digite a idade: \"));   \n      totalI+= idade;\n      i++;\n    }\n\n    var mediaI = totalI/totalP;\n    mostra(\"A média das idades é \" + mediaI);\n\n\n</script>",
+			"file": "media_idade_fami.html",
+			"file_size": 542,
+			"file_write_time": 131626506363733995,
+			"settings":
+			{
+				"buffer_size": 539,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "estrelas.html",
+			"settings":
+			{
+				"buffer_size": 391,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Matheus/Documents/Programming/logica"
+	],
+	"file_history":
+	[
+		"/Users/Matheus/Documents/Programming/logica/jogo_adivinha.html",
+		"/Users/Matheus/Documents/Programming/logica/programa.html",
+		"/Users/Matheus/Documents/Programming/SQL/Aula 03 - DB/Clima Tempo/main.c",
+		"/Users/Matheus/Documents/Programming/SQL/Proj/exer1.c",
+		"/Users/Matheus/Documents/Programming/SQL/Proj/Aula 03 - DB/Clima Tempo/main.c",
+		"/Users/Matheus/Downloads/fila.c",
+		"/Users/Matheus/Downloads/clientes.h",
+		"/Users/Matheus/Documents/Programming/C/InsertionSort/main.c",
+		"/Users/Matheus/Documents/Programming/C/aula12.1.c",
+		"/Users/Matheus/Downloads/rarcrack-0.2/rarcrack.h",
+		"/Users/Matheus/Downloads/rarcrack-0.2/rarcrack.c",
+		"/Users/Matheus/Documents/Programming/C/test.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Headers/npapi.h",
+		"/Users/Matheus/Documents/Programming/C/aula8.1.c",
+		"/Users/Matheus/Downloads/Atividades/OrdenacaoDeDados/OrdenacaoDeDados.c",
+		"/Users/Matheus/Library/Group Containers/3L68KQB4HG.group.com.readdle.smartemail/cache/messagesData/3/3049/main.c",
+		"/Users/Matheus/Downloads/verificar pen drive/tartaruga/calculadora/main.c",
+		"/Users/Matheus/Downloads/verificar pen drive/k/main.c",
+		"/Users/Matheus/Downloads/BubbleMaps/BubbleMaps.c",
+		"/Users/Matheus/Documents/Programming/C/aula8.c",
+		"/Users/Matheus/Documents/Mauá/Estrutura e Técnicas de programação/Atividades/Projeto1/Projeto1.c",
+		"/Users/Matheus/Documents/Mauá/Estrutura e Técnicas de programação/Atividades/Criptografia/Criptografia.c",
+		"/Users/Matheus/Documents/Mauá/Estrutura e Técnicas de programação/Atividades/ResistorAssistant/ResistorAssistant.c",
+		"/Users/Matheus/Documents/Programming/C/main.c",
+		"/Users/Matheus/Downloads/verificar pen drive/aula7/main.c",
+		"/Users/Matheus/Downloads/verificar pen drive/aula7/aula7.1.c",
+		"/Users/Matheus/Documents/Programming/C/URI/ex1984.c",
+		"/Users/Matheus/Documents/Programming/C/aula5.c",
+		"/Users/Matheus/Documents/Programming/C/ex13.c",
+		"/Users/Matheus/Documents/Programming/C/ex12.c",
+		"/Users/Matheus/Documents/Programming/C/ex11.c",
+		"/Users/Matheus/Documents/Programming/C/aula4.c",
+		"/Users/Matheus/Documents/Programming/C/lista_ex13.c",
+		"/Users/Matheus/Documents/Programming/C/vetor_teste.c",
+		"/Users/Matheus/Documents/Programming/C/lista_ex09.c",
+		"/Users/Matheus/Documents/Programming/C/imc.c",
+		"/Users/Matheus/Documents/Programming/C/URI/ex10.c",
+		"/Users/Matheus/Documents/ex10.c",
+		"/Users/Matheus/Documents/Programming/C/aula3.2.c",
+		"/Users/Matheus/Documents/Programming/C/aula3.1.c",
+		"/Users/Matheus/Documents/Programming/Python/URI/ex09.py",
+		"/Users/Matheus/Documents/Programming/Python/URI/ ex09.py",
+		"/Users/Matheus/Documents/ ex09.py",
+		"/Users/Matheus/Downloads/soma.py",
+		"/Users/Matheus/Documents/Programming/Python/programs/jogo_da_velha.py",
+		"/Users/Matheus/Documents/Programming/C/aula3.0.c",
+		"/Users/Matheus/Documents/Programming/C/resistores.c",
+		"/Users/Matheus/Documents/Programming/C/troll.c",
+		"/Users/Matheus/Documents/Programming/C/aula2.3.c",
+		"/Users/Matheus/Documents/Programming/C/aula2.1.c",
+		"/Users/Matheus/Documents/Programming/C/aula2.2.c",
+		"/Users/Matheus/Documents/Programming/C/aula2.4.c",
+		"/Users/Matheus/Documents/Programming/C/aula_02.c",
+		"/Users/Matheus/Desktop/main.c",
+		"/Users/Matheus/Desktop/aula2.4.c",
+		"/Users/Matheus/Desktop/aula_02.c",
+		"/Users/Matheus/Desktop/aula2.2.c",
+		"/Users/Matheus/Desktop/aula2.1.c",
+		"/Users/Matheus/Desktop/aula2.3.c",
+		"/Users/Matheus/Desktop/oi.c",
+		"/Users/Matheus/Desktop/troll.c",
+		"/Users/Matheus/Desktop/test1/test1/test.c",
+		"/Users/Matheus/Desktop/test1/test1/main.c",
+		"/Users/Matheus/Desktop/test.c",
+		"/Users/Matheus/Documents/troll.out.c",
+		"/Users/Matheus/Documents/troll.c",
+		"/Users/Matheus/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/Matheus/Documents/Programming/logica"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "media_idade_fami.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "estrelas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Programming/logica/programa.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
